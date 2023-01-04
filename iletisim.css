@@ -1,0 +1,12 @@
+p{
+
+    color: rgb(255, 255, 255);
+    width: fit-content;
+    margin: 1cm;
+  
+    border-radius: 0.1cm;
+    border-style: none;
+    background-color: rgba(0, 0, 0, 0.616);
+    backdrop-filter: blur("4px");
+
+}
